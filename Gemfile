@@ -4,6 +4,8 @@ source "https://rubygems.org"
 gem 'sinatra'
 gem 'thin'
 gem 'require_all'
+gem 'rake'
+
 
 
 group :development do
