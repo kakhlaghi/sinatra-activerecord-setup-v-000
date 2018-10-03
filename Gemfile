@@ -5,7 +5,7 @@ gem 'sinatra'
 gem 'thin'
 gem 'require_all'
 gem 'activerecord', '4.2.5'
-gem ''
+gem 'sinatra=activerecord'
 
 
 group :development do
